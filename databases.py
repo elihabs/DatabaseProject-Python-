@@ -4,7 +4,6 @@ import sqlite3
 
 root = Tk()
 root.title('Address Book')
-root.iconbitmap('C:/Users/Elijah/PycharmProjects/GUIFun/dickbutt_icon.ico')
 root.geometry("400x400")
 
 # Databases
