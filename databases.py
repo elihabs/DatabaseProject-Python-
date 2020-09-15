@@ -65,7 +65,6 @@ def edit():
     global editor
     editor = Tk()
     editor.title('Edit a Record')
-    editor.iconbitmap('C:/Users/Elijah/PycharmProjects/GUIFun/dickbutt_icon.ico')
     editor.geometry("390x200")
 
     # Create a database or connect to one
